@@ -1,4 +1,4 @@
-# Dotazník, seznámení s fajfkou
+# Dotazník s fajfkou
 Czechitas React 1, Úkol č 3
 
 V našem dotazníku budeme chtít zařídit, že po kliknutí na jednu z 5 možných odpovědí se u otázky zobrazí ikonka fajfky. 
